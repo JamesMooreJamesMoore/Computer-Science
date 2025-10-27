@@ -1,2 +1,2 @@
 # Computer-Science
-Computer science practice and stuff
+Computer science practice, projects, and stuff.
